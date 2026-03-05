@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+Arun+PM's+GitHub+Profile!;DevOps+Engineer+%7C+Cloud+%7C+DevSecOps+%7C+AI+Enthusiast;Automating+Infrastructure%2C+Securing+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+Arun's+GitHub+Profile!;DevOps+Engineer+%7C+Cloud+%7C+AI+Enthusiast;Automating+Infrastructure%2C+Securing+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 # 👋 Hey, I'm Arun!
