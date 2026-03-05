@@ -1,94 +1,71 @@
-<h1 align="center">Hi there, I'm Arun 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+Arun+PM's+GitHub+Profile!;DevOps+Engineer+%7C+Cloud+%7C+DevSecOps+%7C+AI+Enthusiast;Automating+Infrastructure%2C+Securing+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+# 👋 Hey, I'm Arun!
+
+🚀 DevOps Engineer | Cloud & DevSecOps | AI Enthusiast  
+🎯 Mission: Building secure, scalable infrastructure and automating everything in between
+
+---
+
+## 🔥 About Me
+
+- 🏗️ **DevOps Engineer**, building and automating cloud infrastructure
+- ☁️ Passionate about **Cloud Technologies, DevSecOps, and Integration Platforms**
+- 🔐 Hands-on experience with **HashiCorp Vault**, PKI, and secrets management
+- 🤖 Exploring **AI/ML**
+- 🐳 Love containerizing workloads with **Docker** and orchestrating with **Kubernetes**
+- ⚡ Always learning, always automating!
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;Security+Focused;Automation+Advocate" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,terraform,jenkins,githubactions,git,github,python,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunpm111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/arunpm111?tab=followers"><img src="https://img.shields.io/github/followers/arunpm111?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
+  <img src="https://img.shields.io/badge/DevSecOps-2C2D72?style=for-the-badge&logo=security&logoColor=white" alt="DevSecOps"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 📌 Featured Projects
 
-- 🔭 **DevOps Engineer**
-- 🌱 Passionate about **Cloud, DevSecOps & Integration Technologies**
-- 🔐 Specialized in **Security Automation & Infrastructure as Code**
-- 💡 Always exploring new tools and technologies
-- 📫 Reach me at: **arunpm111@gmail.com**
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Security & PKI
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
-![SSL/TLS](https://img.shields.io/badge/SSL/TLS-00979D?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔐 [vault-pki-project](https://github.com/arunpm111/vault-pki-project) | HashiCorp Vault server & agent with PKI secrets engine for automated certificate management | Vault, Docker, Shell |
+| 🤖 [ai-notes](https://github.com/arunpm111/ai-notes) | Comprehensive AWS AI Practitioner (AIF-C01) certification study guide with detailed notes | AWS AI/ML, GenAI |
+| 🧑‍💻 [skills-create-applications-with-the-copilot-cli](https://github.com/arunpm111/skills-create-applications-with-the-copilot-cli) | Building applications using GitHub Copilot CLI | JavaScript, Copilot |
+| 🤖 [skills-ai-in-actions](https://github.com/arunpm111/skills-ai-in-actions) | Exploring AI-powered GitHub Actions workflows | GitHub Actions, AI |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunpm111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunpm111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpm111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunpm111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpm111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunpm111&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arunpm111&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔥 Recent Projects & Highlights
-
-- 🔐 **[Vault PKI Project](https://github.com/arunpm111/vault-pki-project)** - HashiCorp Vault PKI infrastructure automation
-- 🤖 **[Skills AI in Actions](https://github.com/arunpm111/skills-ai-in-actions)** - GitHub Actions with AI integration
-- 🚀 **[Skills Create Applications](https://github.com/arunpm111/skills-create-applications-with-the-copilot-cli)** - Application development with Copilot CLI
-- 📝 **[AI Notes](https://github.com/arunpm111/ai-notes)** - AI/ML learning notes and resources
+- 📜 **AWS AI Practitioner Certification** — Deep diving into AI/ML, Generative AI, and AWS AI services
+- 🔒 **DevSecOps Best Practices** — Integrating security into every stage of the CI/CD pipeline
+- 🏗️ **Infrastructure as Code** — Automating cloud infrastructure with Terraform
 
 ---
 
@@ -96,22 +73,26 @@
 
 <p align="center">
   <a href="mailto:arunpm111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/arunpm111">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://arunpm111.github.io">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
+## ✨ Quote I Live By
+
+> _"Automate what you can, secure what you must, and never stop learning."_
+
+---
 
 <p align="center">
-  <i>⚡ "Automating the future, one pipeline at a time" ⚡</i>
+  <img src="https://komarev.com/ghpvc/?username=arunpm111&label=Profile+Views&color=36BCF7&style=flat" alt="Profile Views"/>
 </p>
