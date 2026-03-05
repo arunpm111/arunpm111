@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+Arun+PM's+GitHub+Profile!;DevOps+Engineer+%7C+Cloud+%7C+DevSecOps+%7C+AI+Enthusiast;Automating+Infrastructure%2C+Securing+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-# 👋 Hey, I'm Arun PM!
+# 👋 Hey, I'm Arun!
 
 🚀 DevOps Engineer | Cloud & DevSecOps | AI Enthusiast  
 🎯 Mission: Building secure, scalable infrastructure and automating everything in between
@@ -11,10 +11,10 @@
 
 ## 🔥 About Me
 
-- 🏗️ Currently working as a **DevOps Engineer**, building and automating cloud infrastructure
+- 🏗️ **DevOps Engineer**, building and automating cloud infrastructure
 - ☁️ Passionate about **Cloud Technologies, DevSecOps, and Integration Platforms**
 - 🔐 Hands-on experience with **HashiCorp Vault**, PKI, and secrets management
-- 🤖 Exploring **AI/ML** and pursuing the **AWS AI Practitioner Certification (AIF-C01)**
+- 🤖 Exploring **AI/ML**
 - 🐳 Love containerizing workloads with **Docker** and orchestrating with **Kubernetes**
 - ⚡ Always learning, always automating!
 
@@ -44,7 +44,6 @@
 | 🤖 [ai-notes](https://github.com/arunpm111/ai-notes) | Comprehensive AWS AI Practitioner (AIF-C01) certification study guide with detailed notes | AWS AI/ML, GenAI |
 | 🧑‍💻 [skills-create-applications-with-the-copilot-cli](https://github.com/arunpm111/skills-create-applications-with-the-copilot-cli) | Building applications using GitHub Copilot CLI | JavaScript, Copilot |
 | 🤖 [skills-ai-in-actions](https://github.com/arunpm111/skills-ai-in-actions) | Exploring AI-powered GitHub Actions workflows | GitHub Actions, AI |
-| 🌐 [arunpm111.github.io](https://github.com/arunpm111/arunpm111.github.io) | Personal portfolio website | HTML, CSS |
 
 ---
 
