@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **DevOps Engineer**
+- 🔭 **DevOps Engineer**
 - 🌱 Passionate about **Cloud, DevSecOps & Integration Technologies**
 - 🔐 Specialized in **Security Automation & Infrastructure as Code**
 - 💡 Always exploring new tools and technologies
